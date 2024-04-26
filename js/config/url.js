@@ -1,0 +1,1 @@
+export let urlAPI = "https://ws-maharani2024-db57da935d66.herokuapp.com/presensi";
